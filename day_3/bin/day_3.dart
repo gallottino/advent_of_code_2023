@@ -1,3 +1,7 @@
+/// Author: gallottino (d.gallotti@outlook.it)
+/// Advent Of Code 2023 - Day 3
+/// url: https://adventofcode.com/2023/day/3
+
 import 'dart:io';
 
 import 'package:day_3/day_3.dart';
